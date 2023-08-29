@@ -1,1 +1,1 @@
-My frist readme 
+README file for alx-zero_day project 
